@@ -1,4 +1,4 @@
-# Cell and organelle segementations
+# Segementations of E. coli with synthetic organelles
 
 Research article: Spatial engineering of E. coli with addressable phase-separated RNAs
 
